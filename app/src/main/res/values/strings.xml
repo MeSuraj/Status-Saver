@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+
+    <string name="image">IMAGES</string>
+    <string name="video">VIDEOS</string>
+    <string name="save">SAVED</string>
+    <string name="no_files_found">No Files Found</string>
+    <string name="cant_find_whatsapp_dir">Cannot Find Whatsapp directory</string>
+    <string name="Zero_Say_Android">Zero Say Android.</string>
+
+    <!--Ads Placeholder-->
+    <string name="fb_bannerAds_mainView">5140894959312225_5141938969207824</string>
+    <string name="GAds_ApplicationId">ca-app-pub-1984093052127484~7252695442</string>
+    <string name="GAds_ImageView_BackPress">ca-app-pub-1984093052127484/3860245347</string>
+    <string name="GAds_VideoView_BackPress">ca-app-pub-1984093052127484/9715207250</string>
+
+
+</resources>
