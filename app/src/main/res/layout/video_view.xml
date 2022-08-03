@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/rectangle_rounded"
     android:padding="10dp"
-    tools:context="zero.say.android.statussaver.Ui.VideoView">
+    tools:context="learn.zero.say.statussaver.Ui.VideoView">
 
     <VideoView
         android:id="@+id/videoView"

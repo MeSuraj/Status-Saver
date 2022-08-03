@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="zero.say.android.statussaver.Ui.ImageView"
+    tools:context="learn.zero.say.statussaver.Ui.ImageView"
     android:background="@drawable/rectangle_rounded"
     android:padding="10dp"
     android:orientation="vertical">

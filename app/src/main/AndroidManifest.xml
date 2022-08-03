@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="zero.say.android.statussaver">
+    package="learn.zero.say.statussaver">
 
     <uses-permission
         android:name="android.permission.WRITE_EXTERNAL_STORAGE"
@@ -23,11 +23,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.StatusSaver">
-        <activity android:name="zero.say.android.statussaver.Ui.PrivacyPolicy" />
-        <activity android:name="zero.say.android.statussaver.Ui.VideoView" />
-        <activity android:name="zero.say.android.statussaver.Ui.ImageView" />
-        <activity android:name="zero.say.android.statussaver.Ui.MainActivity" />
-        <activity android:name="zero.say.android.statussaver.Ui.Splash"
+        <activity android:name="learn.zero.say.statussaver.Ui.PrivacyPolicy" />
+        <activity android:name="learn.zero.say.statussaver.Ui.VideoView" />
+        <activity android:name="learn.zero.say.statussaver.Ui.ImageView" />
+        <activity android:name="learn.zero.say.statussaver.Ui.MainActivity" />
+        <activity android:name="learn.zero.say.statussaver.Ui.Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
